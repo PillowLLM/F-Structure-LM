@@ -36,3 +36,14 @@ https://www\.modelscope\.cn/models/Yxpilow/F\_Structure\_LM/summary
 
 All model\-related files \(including but not limited to weights, code, and configuration\) are only hosted on ModelScope\. For the latest updates, bug fixes, and usage tutorials, please refer to the official model page linked above\.
 
+---
+
+<div align="center">
+
+<a href="https://github.com/PillowLLM/F-Structure-LM">
+  <img width="100%" src="https://alittlecatgirlpanel.yxp.hk/card?repo=PillowLLM/F-Structure-LM" alt="gh-card · PillowLLM/F-Structure-LM" />
+</a>
+
+<sub>Powered by <a href="https://alittlecatgirlpanel.yxp.hk"><b>gh-card</b></a> · 粉色手写体 README 仓库名片</sub>
+
+</div>
